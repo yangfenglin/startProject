@@ -26,7 +26,4 @@
 	url = https://github.com/EOSIO/magic_get
 [submodule "libraries/fc"]
 	path = libraries/fc
-	url = https://github.com/EOSIO/fc
-[submodule "fc_module"]
-	path = fc_module
-	url = https://github.com/yangfenglin/fc_module
+        url = https://github.com/yangfenglin/fc_module
